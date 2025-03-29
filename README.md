@@ -1,7 +1,5 @@
 ## Hi there 👋  
 
-**ugunNet21/ugunNet21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
-
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Full-Stack Web & Mobile Development**.  
 - 🌱 I’m continuously learning **new technologies to improve scalability and performance**.  
