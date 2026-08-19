@@ -9,8 +9,6 @@
 - 📫 How to reach me:  
   - 🌐 [Personal Website](https://careergunawan.my.id)  
   - 🎥 [YouTube: Giatechindo](https://www.youtube.com/c/Giatechindo)  
-  - 📸 [Instagram: @gugunii](https://instagram.com/gugunii)  
-  - 📘 [Facebook: gugunii](https://facebook.com/gugunii)  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I love coding, teaching IT, working with computer hardware, and exploring IoT innovations!**  
 
